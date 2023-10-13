@@ -22,11 +22,11 @@
 
 6. Нарисуем диаграмму иерархии классов.
 
-![screenshot]([Images/Animals.png](https://github.com/Timzmei/SpecFin/assets/57046083/c40a6e1a-014e-4325-86e6-73349254d3da)
+![screenshot](https://github.com/Timzmei/SpecFin/assets/57046083/c40a6e1a-014e-4325-86e6-73349254d3da)
 
 7. Напишем скрипт MySQ, который создаёт базу данных питомника.
 
-[Скрипт с БД](nursery_db.sql)
+[Скрипт с БД](my_db.sql)
 
 13. Напишем программу, имитирующую работу реестра домашних животных.
-[Код программы](Programm/)
+[Код программы](main.py)
